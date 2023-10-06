@@ -1,4 +1,3 @@
-# Python-Test
 # Global constant for the base year
 BASE_YEAR = 1903
 
